@@ -1,6 +1,5 @@
-# SEDITEC _(Identificar, proponer y aplicar soluciones informáticas)_
+# Identificar, proponer y aplicar soluciones informáticas
 
-## Nosotros
 ### Origen
 La idea 💡 surge de la detección 🔍 de la necesidad de las Pymes por mantenerse al día de la tecnología 🌐, optimizar los recursos 💼, mantenerse competitivos 🏆 y a la vanguardia en la era de las tecnologías de la información a costos accesibles. 🚀📈🔧
 
